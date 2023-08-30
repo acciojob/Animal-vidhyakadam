@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+#photo-heading{
+	display:flex;
+	text-aline: center;
+	justify-content:center
+	
+}
+.main-container{
+	background-color: #808080;
+	height:100vh;
+	width:100vh;
+	margin:4px
+	padding-left:10px;
+	
+
+}
+.animal-1{
+	margin:2pxx;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+     padding-left:10px;
+}
+.animal{
+	height:155px;
+	width:85%;
+	margin:3px;
+	padding:4px;
+	border-radius: 25px;
+ 
+}
